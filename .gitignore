@@ -6,5 +6,9 @@ out/
 .idea/
 .idea_modules/
 *.iml
-*.ipr
+*.ikr
 *.iws
+
+#
+.DS_Store
+
