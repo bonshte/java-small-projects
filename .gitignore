@@ -1,0 +1,10 @@
+# Compiled class file
+*.class
+
+# Intellij
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
